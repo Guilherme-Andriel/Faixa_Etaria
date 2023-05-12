@@ -1,0 +1,37 @@
+/*----------------- Estilização: ---------- */
+
+body{
+  background-color: rgb(64, 141, 154);
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+#box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  
+}
+
+#container{
+  width: 500px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 2.5%;
+  padding: 30px 15px 15px 15px;
+  box-shadow: 0 0 3px #000;
+}
+
+#detector{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+footer.rodape{
+  margin: 15px;
+}
